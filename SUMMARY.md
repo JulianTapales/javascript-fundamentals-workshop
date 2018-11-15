@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Intro](README.md)
-* [01](01.md)
-* [02](untitled.md)
+* [Session 01](01.md)
+* [Session 02](untitled.md)
 

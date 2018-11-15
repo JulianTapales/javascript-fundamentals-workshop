@@ -2,5 +2,5 @@
 description: Coming soon...
 ---
 
-# 02
+# Session 02
 
